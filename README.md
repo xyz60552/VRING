@@ -1,6 +1,6 @@
 # VRING
 VRING is a class bell buzzer with GUI.
-
-Only support 简体中文.
-
-Created using QT6
+## Language support
+Only 简体中文.
+---
+Created using Qt6
